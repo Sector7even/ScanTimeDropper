@@ -1,0 +1,22 @@
+C:\Users\profe\source\repos\ScanTimeDropper Stub\ScanTimeDropper Stub\bin\Debug\ScanTimeDropper Stub.exe.config
+C:\Users\profe\source\repos\ScanTimeDropper Stub\ScanTimeDropper Stub\bin\Debug\ScanTimeDropper Stub.exe
+C:\Users\profe\source\repos\ScanTimeDropper Stub\ScanTimeDropper Stub\bin\Debug\ScanTimeDropper Stub.pdb
+C:\Users\profe\source\repos\ScanTimeDropper Stub\ScanTimeDropper Stub\bin\Debug\ScanTimeDropper Stub.xml
+C:\Users\profe\source\repos\ScanTimeDropper Stub\ScanTimeDropper Stub\obj\Debug\ScanTimeDropper Stub.vbprojAssemblyReference.cache
+C:\Users\profe\source\repos\ScanTimeDropper Stub\ScanTimeDropper Stub\obj\Debug\ScanTimeDropper_Stub.Form1.resources
+C:\Users\profe\source\repos\ScanTimeDropper Stub\ScanTimeDropper Stub\obj\Debug\ScanTimeDropper_Stub.Resources.resources
+C:\Users\profe\source\repos\ScanTimeDropper Stub\ScanTimeDropper Stub\obj\Debug\ScanTimeDropper Stub.vbproj.GenerateResource.cache
+C:\Users\profe\source\repos\ScanTimeDropper Stub\ScanTimeDropper Stub\obj\Debug\ScanTimeDropper Stub.exe
+C:\Users\profe\source\repos\ScanTimeDropper Stub\ScanTimeDropper Stub\obj\Debug\ScanTimeDropper Stub.xml
+C:\Users\profe\source\repos\ScanTimeDropper Stub\ScanTimeDropper Stub\obj\Debug\ScanTimeDropper Stub.pdb
+C:\Users\profe\Desktop\Build\Veröffentlichen\ScanTimeDropper Source\ScanTimeDropper Stub\ScanTimeDropper Stub\obj\Debug\ScanTimeDropper_Stub.Form1.resources
+C:\Users\profe\Desktop\Build\Veröffentlichen\ScanTimeDropper Source\ScanTimeDropper Stub\ScanTimeDropper Stub\obj\Debug\ScanTimeDropper_Stub.Resources.resources
+C:\Users\profe\Desktop\Build\Veröffentlichen\ScanTimeDropper Source\ScanTimeDropper Stub\ScanTimeDropper Stub\obj\Debug\ScanTimeDropper Stub.vbproj.GenerateResource.cache
+C:\Users\profe\Desktop\Build\Veröffentlichen\ScanTimeDropper Source\ScanTimeDropper Stub\ScanTimeDropper Stub\bin\Debug\Stub.exe.config
+C:\Users\profe\Desktop\Build\Veröffentlichen\ScanTimeDropper Source\ScanTimeDropper Stub\ScanTimeDropper Stub\bin\Debug\Stub.exe
+C:\Users\profe\Desktop\Build\Veröffentlichen\ScanTimeDropper Source\ScanTimeDropper Stub\ScanTimeDropper Stub\bin\Debug\Stub.pdb
+C:\Users\profe\Desktop\Build\Veröffentlichen\ScanTimeDropper Source\ScanTimeDropper Stub\ScanTimeDropper Stub\bin\Debug\Stub.xml
+C:\Users\profe\Desktop\Build\Veröffentlichen\ScanTimeDropper Source\ScanTimeDropper Stub\ScanTimeDropper Stub\obj\Debug\Stub.exe
+C:\Users\profe\Desktop\Build\Veröffentlichen\ScanTimeDropper Source\ScanTimeDropper Stub\ScanTimeDropper Stub\obj\Debug\Stub.xml
+C:\Users\profe\Desktop\Build\Veröffentlichen\ScanTimeDropper Source\ScanTimeDropper Stub\ScanTimeDropper Stub\obj\Debug\Stub.pdb
+C:\Users\profe\Desktop\Build\Veröffentlichen\ScanTimeDropper Source\ScanTimeDropper Stub\ScanTimeDropper Stub\obj\Debug\ScanTimeDropper Stub.vbprojAssemblyReference.cache

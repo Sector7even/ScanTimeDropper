@@ -1,0 +1,21 @@
+C:\Users\profe\source\repos\ScanTimeDropper\ScanTimeDropper\bin\Debug\ScanTimeDropper.exe.config
+C:\Users\profe\source\repos\ScanTimeDropper\ScanTimeDropper\bin\Debug\ScanTimeDropper.exe
+C:\Users\profe\source\repos\ScanTimeDropper\ScanTimeDropper\bin\Debug\ScanTimeDropper.pdb
+C:\Users\profe\source\repos\ScanTimeDropper\ScanTimeDropper\bin\Debug\ScanTimeDropper.xml
+C:\Users\profe\source\repos\ScanTimeDropper\ScanTimeDropper\obj\Debug\ScanTimeDropper Builder.vbprojAssemblyReference.cache
+C:\Users\profe\source\repos\ScanTimeDropper\ScanTimeDropper\obj\Debug\ScanTimeDropper.Form1.resources
+C:\Users\profe\source\repos\ScanTimeDropper\ScanTimeDropper\obj\Debug\ScanTimeDropper.Resources.resources
+C:\Users\profe\source\repos\ScanTimeDropper\ScanTimeDropper\obj\Debug\ScanTimeDropper Builder.vbproj.GenerateResource.cache
+C:\Users\profe\source\repos\ScanTimeDropper\ScanTimeDropper\obj\Debug\ScanTimeDropper.exe
+C:\Users\profe\source\repos\ScanTimeDropper\ScanTimeDropper\obj\Debug\ScanTimeDropper.xml
+C:\Users\profe\source\repos\ScanTimeDropper\ScanTimeDropper\obj\Debug\ScanTimeDropper.pdb
+C:\Users\profe\Desktop\Build\Veröffentlichen\ScanTimeDropper Source\ScanTimeDropper Builder\ScanTimeDropper\bin\Debug\ScanTimeDropper.exe.config
+C:\Users\profe\Desktop\Build\Veröffentlichen\ScanTimeDropper Source\ScanTimeDropper Builder\ScanTimeDropper\bin\Debug\ScanTimeDropper.exe
+C:\Users\profe\Desktop\Build\Veröffentlichen\ScanTimeDropper Source\ScanTimeDropper Builder\ScanTimeDropper\bin\Debug\ScanTimeDropper.pdb
+C:\Users\profe\Desktop\Build\Veröffentlichen\ScanTimeDropper Source\ScanTimeDropper Builder\ScanTimeDropper\bin\Debug\ScanTimeDropper.xml
+C:\Users\profe\Desktop\Build\Veröffentlichen\ScanTimeDropper Source\ScanTimeDropper Builder\ScanTimeDropper\obj\Debug\ScanTimeDropper.Form1.resources
+C:\Users\profe\Desktop\Build\Veröffentlichen\ScanTimeDropper Source\ScanTimeDropper Builder\ScanTimeDropper\obj\Debug\ScanTimeDropper.Resources.resources
+C:\Users\profe\Desktop\Build\Veröffentlichen\ScanTimeDropper Source\ScanTimeDropper Builder\ScanTimeDropper\obj\Debug\ScanTimeDropper Builder.vbproj.GenerateResource.cache
+C:\Users\profe\Desktop\Build\Veröffentlichen\ScanTimeDropper Source\ScanTimeDropper Builder\ScanTimeDropper\obj\Debug\ScanTimeDropper.exe
+C:\Users\profe\Desktop\Build\Veröffentlichen\ScanTimeDropper Source\ScanTimeDropper Builder\ScanTimeDropper\obj\Debug\ScanTimeDropper.xml
+C:\Users\profe\Desktop\Build\Veröffentlichen\ScanTimeDropper Source\ScanTimeDropper Builder\ScanTimeDropper\obj\Debug\ScanTimeDropper.pdb
